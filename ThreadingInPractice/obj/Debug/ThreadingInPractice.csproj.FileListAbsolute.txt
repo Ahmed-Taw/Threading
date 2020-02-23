@@ -1,0 +1,7 @@
+D:\Work\ThreadingInPractice\ThreadingInPractice\bin\Debug\ThreadingInPractice.exe.config
+D:\Work\ThreadingInPractice\ThreadingInPractice\bin\Debug\ThreadingInPractice.exe
+D:\Work\ThreadingInPractice\ThreadingInPractice\bin\Debug\ThreadingInPractice.pdb
+D:\Work\ThreadingInPractice\ThreadingInPractice\obj\Debug\ThreadingInPractice.csprojAssemblyReference.cache
+D:\Work\ThreadingInPractice\ThreadingInPractice\obj\Debug\ThreadingInPractice.csproj.CoreCompileInputs.cache
+D:\Work\ThreadingInPractice\ThreadingInPractice\obj\Debug\ThreadingInPractice.exe
+D:\Work\ThreadingInPractice\ThreadingInPractice\obj\Debug\ThreadingInPractice.pdb
