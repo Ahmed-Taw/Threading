@@ -28,7 +28,10 @@ Semaphore,
 SemaphoreSlim, 
 and the reader/writer locks. 
  */
+<<<<<<< HEAD
 
+=======
+>>>>>>> remotes/master/master
         /*
          * lock has 2 types 
          *  1- only one thread can access te code inside the lock 
@@ -115,10 +118,14 @@ A deadlock happens when two threads each wait for a resource held by the other, 
 
             }
 
+<<<<<<< HEAD
 
 
 
     }
 
     
+=======
+    }
+>>>>>>> remotes/master/master
 }

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="ConcurrencyStructures.cs" />
     <Compile Include="Mutex.cs" />
     <Compile Include="Normalthread.cs" />
@@ -53,6 +54,14 @@
     <Compile Include="SharedResources.cs" />
     <Compile Include="SyncEst.cs" />
     <Compile Include="Tasks.cs" />
+=======
+    <Compile Include="Mutex.cs" />
+    <Compile Include="Normalthread.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Semaphore.cs" />
+    <Compile Include="SyncEst.cs" />
+>>>>>>> remotes/master/master
     <Compile Include="ThreadLock.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -23,6 +23,7 @@ namespace ThreadingInPractice
             //Mutexs mutexs = new Mutexs();
             //mutexs.MutexTest();
 
+<<<<<<< HEAD
             //Semaphore semaphore = new Semaphore();
             //semaphore.Main();
 
@@ -46,6 +47,11 @@ namespace ThreadingInPractice
                 sharedResources.PlayAHealthGame();
 
             }
+=======
+            Semaphore semaphore = new Semaphore();
+            semaphore.Main();
+            //ThreadPool.QueueUserWorkItem(Go);
+>>>>>>> remotes/master/master
             Console.ReadLine();
         }
 
